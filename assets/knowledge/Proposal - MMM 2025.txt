@@ -1,0 +1,21 @@
+Proposed Session Title: 
+Embedding Accessibility into California's Apprenticeship Infrastructure: A Digital Workflow Solution for Intermediaries
+
+Name, title, organization, and email address for each presenters or panelist: 
+Caleb van Docto, Social Policy Research Associates, caleb_van_docto@spra.com
+
+Session Description - In now more than 100 words, describe what will be covered in the session. This description will be used for the program: 
+This interactive workshop will beta test an AI-powered digital tool designed to systematically integrate accessibility analysis into apprenticeship program development. Participants will test out creating inclusive work process schedules that take accessibility considerations into account. The session demonstrates how accessibility can become a standard part of program development infrastructure, and considers how intermediaries can scale inclusive practices across their entire portfolios rather than program-by-program.
+
+How does this session align with the conference theme Fearless Forward: Turning Uncertainty into Opportunity or with topics related to one or more of the five workshop tracks? 
+This session aligns most closely with Track 5, combining both AI-based integration into work-based-learning (apprenticeship) program development. 
+
+What are the top 3 takeaways attendees will gain from this session? 
+By the end of this session, participants will be able to:
+1. Recognize how accessibility can be embedded into intermediary workflows.
+2. Experience hands-on use of AI-powered analysis to identify accessibility barriers in work process schedules.
+3. Understand how Universal Design for Learning (UDL) principles and regulatory requirements can inform systematic approaches to creating accessible apprenticeship programs across multiple occupations and employers.
+4. Identify integration opportunities within their own organizations
+
+Who is your target audience for this session? 
+Apprenticeship program administrators, developers, designers, and other program collaborators.

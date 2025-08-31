@@ -1,0 +1,38 @@
+[
+  {
+    "id": "R-A1",
+    "category": "language",
+    "pattern": "\\bclimb(ing)?\\b",
+    "flags": "i",
+    "severity": "warn",
+    "message": "Replace physical\u2011method verb with task\u2011focused wording.",
+    "suggestion": "Use 'ascend a ladder' or 'access elevated work areas'; specify alternatives."
+  },
+  {
+    "id": "R-A2",
+    "category": "language",
+    "pattern": "lift(?:ing)?\\s*(\\d+)\\s*(lb|lbs|pounds|kg)?",
+    "flags": "i",
+    "severity": "warn",
+    "message": "Hard physical requirement may exclude qualified candidates if not essential.",
+    "suggestion": "State the task (move materials up to X) and allow assistive devices/team lifts."
+  },
+  {
+    "id": "R-B3",
+    "category": "softskill",
+    "pattern": "(excellent communication|team player|self[- ]starter|strong work ethic|detail[- ]oriented)",
+    "flags": "i",
+    "severity": "info",
+    "message": "Vague soft\u2011skill language.",
+    "suggestion": "Define observable behaviors (e.g., responds within X hours; closes loop with mentor)."
+  },
+  {
+    "id": "R-D1",
+    "category": "policy",
+    "pattern": "with or without reasonable accommodation",
+    "flags": "i",
+    "severity": "info",
+    "message": "ADA boilerplate belongs in HR, not WPS text.",
+    "suggestion": "Remove from WPS; keep in policy documents."
+  }
+]

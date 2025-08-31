@@ -1,0 +1,160 @@
+Registering Inclusive Apprenticeship Program
+A Guide for Developing and Modifying an Apprenticeship Work Process Form 
+About this Resource
+This resource is designed to provide organizations with guidance on how to register an inclusive apprenticeship program using a Work Process form. It includes tips on completing the various components of the form, including a Work Process Schedule and Related Instruction Outline, and how to apply best practices of inclusion and accessibility when designing a Registered Apprenticeship Program for individuals with disabilities and other underrepresented groups. 
+Overview
+ (RAPs) are a proven model of apprenticeship validated by the U.S. Department of Labor or a State Apprenticeship Agency (SAA), providing apprentices with classroom instruction and paid on-the-job training with an experienced mentor. RAPs also help companies successfully recruit, develop, and retain a skilled workforce. 
+[CALLOUT BOX: The Return on Investment (ROI) Nearly all apprenticeship studies show that employers who offer RAPs experience a positive return on investment. They increase the productivity of their workers and enhance the long-term value of their companies. 
+A U.S. Department of Labor study of  grantees found that the median return on investment was .
+According to a 2023 report from Accenture and Disability:IN, “,” companies that prioritized key disability inclusion criteria realized, “1.6x more revenue, 2.6x more net income, and 2x more economic profit.” 
+When these programs are developed to be inclusive and accessible to all apprentices, they are known as inclusive apprenticeships.  and  of those without disabilities. These programs are specifically designed to train apprentices with disabilities and other underrepresented groups, helping them gain credentials and workforce experience to support their long-term success in well-paying jobs. 
+These programs can also help employers, particularly those in high-growth, high-demand industries, address their skills gap. The technology sector, for instance, faces a growing need for talent. , of 3.5 million technology job postings they analyzed, “many of the skills in greatest demand have less than half as many qualified practitioners per posting.”
+RAPs that are designed to be inclusive can also help advance employers' diversity, equity, inclusion, and accessibility (DEIA) efforts. The Accenture/Disability:IN report mentioned above found that companies that prioritize inclusion “receive twice as many positive reviews related to aspects of disability inclusion than industry peers on Glassdoor.” They are also more likely to attract and retain other underrepresented workers, building a pipeline to access untapped talent and moving closer to achieving their DEIA goals.
+Why Register an Inclusive Apprenticeship?
+Organizations that register an inclusive apprenticeship program can access significant federal, state, and non-profit assistance that can contribute to a program's success. These include technical assistance, access to funding, tax incentives and more. 
+[CALLOUT BOX: Read PIA’s “” resource to learn how to calculate the return on investment of an inclusive Registered Apprenticeship Program.]
+Funding & Tax Incentives
+Organizations interested in developing a RAP can tap pools of funding that are unavailable to unregistered programs. This funding can cover the cost of developing an inclusive RAP at all stages of the process.
+Funding
+Funding for RAPs is available through the Biden Administration’s American Jobs Plan and American Rescue Plan.  via The Council of State Governments. 
+In 2022, the Department of Labor announced the  providing $113 million in available funds to strengthen and modernize RAPs. 
+In the same year, The White House also launched its , “to create a national network of employers, labor organizations, industry associations, program sponsors, educators, workforce intermediaries, minority-serving institutions, community-based organizations, and other stakeholders to serve as champions for expanding and diversifying Registered Apprenticeship.”
+The  (WANTO) grant helps to expand pathways for women to enter and lead in all industries.
+The  (WPY) program expands job training and workforce activities for youth, including apprenticeships in out-of-school time organizations nationwide.
+The  fund grants that support economic mobility, address historic inequities for marginalized communities of color and other underserved and underrepresented communities, and produce high-quality employment outcomes for workers in several rural communities.
+Typical Costs and Potential Funding Sources for Common Operations Components of Apprenticeship Programs:
+
+Tax Incentives
+The Inflation Reduction Act of 2022 (IRA) includes several tax provisions offering bonus credits to clean energy focused projects that use registered apprentices. (.)
+The  (NCSL) maintains a list of several states that offer a variety of tax incentives and grant funding for the employment of apprentices or the implementation of apprenticeship programs.
+The  (EARN) has a list of federal and state tax incentives for hiring people with disabilities. This includes the  (WOTC), which offers a federal tax credit of up to $9,600 per apprentice. It is available to employers who hire individuals from certain groups who have faced significant barriers to employment.
+More information is available at  and in the .
+Technical Assistance
+There are two organizations responsible for registering and overseeing RAPs:  (OA) at the Department of Labor and  (SAA). Both OA and SAAs provide technical assistance, including guidance on how to develop an apprenticeship and achieve success throughout the apprenticeship lifecycle. They also connect employers to partners, help them find funding sources, and direct them to resources on how to ensure a program is inclusive and accessible to all. Organizations can determine the OA or SAA office that supports their state or territory  developed by the Department of Labor.
+PIA’s  also has a wealth of technical assistance resources to support the development and long-term success of inclusive Registered Apprenticeship Programs. Other organizations that provide technical assistance include:
+
+
+
+
+Legal Requirements
+When an apprenticeship sponsor registers an apprenticeship program, they must adhere to , requirements that ensure programs are inclusive to people with disabilities. The Department of Labor has set a utilization goal for organizations with RAPs—7% of individuals enrolled in the RAP should be individuals with disabilities. As part of the RAP application process, organizations must also take an  of protected classes, including people with disabilities. 
+[CALLOUT BOX: Read PIA’s , designed to help organizations leading RAPs reach the Department of Labor 7% utilization goal.]
+Programs are also required to be accessible to all, under the  (ADA) and the  (WIOA).  from the Partnership on Employment & Accessible Technology (PEAT).
+---------------------------------------------------------------------------------------------------------------------------------
+Checklist for Completing a Work Process Form
+This checklist is meant to be used when developing or modifying a Work Process form for a Registered Apprenticeship Program that incorporates best practices of inclusion and accessibility. 
+Getting Started
+Learn the Basics of Inclusive Apprenticeship
+Before moving forward with developing or updating a Work Process form, organizations should understand the basics of designing an inclusive apprenticeship program. This information can be found in PIA’s .
+Review How-to Guides and Examples 
+The Office of Apprenticeship (OA) has published resources to help organizations understand the submission process for applying to become a Registered Apprenticeship Program. These guides provide step-by-step guidance through the online submission process. These resources also include examples of Work Process Schedules. The following should be reviewed before an organization completes a new form.
+ is a resource hub for organizations interested in developing registered apprenticeship programs or that have existing programs. The website includes downloadable  to assist in the completion of a Work Process form.
+Workforce GPS also published a  to support the process.
+Determine the Focus of a RAP
+To register an apprenticeship program, an organization must list a specific occupation on the Work Process form. For instance, for a technology apprenticeship program an occupation might be a “.”  The Office of Apprenticeship or an SAA must approve an occupation before a program can be officially designated as a RAP. Often times, a sponsor is creating an apprenticeship for an occupation that has already been approved by OA or an SAA and can be found in DOL’s . Each occupation that has been approved includes a list of responsibilities that an apprentice must complete, also known as a Work Process Schedule (WPS).
+If choosing an existing occupation, a sponsor can customize the components of a program up to 25% using OA’s . If a sponsor would like to alter an existing occupation more than this percentage or would like to register an occupation that isn’t listed in the Occupation Finder, they must submit a request to Apprenticeship.gov using the . The process requires sponsors to identify the skills an apprentice needs to perform, the amount of on-the-job training needed to become competent in the skills, and provide a list of subject matter experts who will review the request to ensure the occupation meets industry standards. More information can be found in the OA guide, “.”
+Identify Partners
+Partnering with another organization with apprenticeship expertise can support a program’s long-term success. Apprenticeship intermediaries are potential partners that can support hiring, recruitment, and training of apprentices. Intermediaries can include industry associations and business organizations, community and technical colleges, non-profit and community-based organizations, labor management partnerships, and workforce development boards.  from Apprenticeships for America.
+Other potential partners include entities that provide Related Technical Instruction (RTI) and recruiting organizations that can connect organizations with candidates, including those with disabilities (see the Related Technical Instruction outline section of this resource for more information). 
+and search DOL’s  resource to connect organizations with potential partners.
+Prioritize Accessibility Experience 
+When evaluating a potential partner, organizations should ask them about their experience, knowledge, and track record in supporting apprentices with disabilities and apprentices from other underrepresented groups. PIA can provide direct support to connect organizations with apprenticeship partners with expertise in inclusion and accessibility. . 
+Creating an Inclusive Work Process Schedule
+The Work Process Schedule is a core component of the application process for a RAP. It details the focus and structure of an organization’s proposed apprenticeship program. Steps to complete the schedule include: 
+Identifying an occupation; 
+Outlining the required skills and activities an apprentice must complete to graduate from the program; and,
+Dictating the number of hours it will take to complete each component of the apprenticeship process.
+Choosing a Type of Occupation
+Organizations must choose the type of occupation they would like to create, which must fall into one of three categories: time-based, hybrid, and competency-based occupations. Regardless of the type, the Work Process Schedule must outline the tasks and learning activities for each.
+Time-based Occupations measure the completion of skills learned in on-the-job training. Completed Work Process Schedules must include a breakdown of the estimated hours required to learn each skill within a chosen occupation. These occupations require apprentices to complete roughly 2,000 hours of training per year.
+Hybrid-Based Occupations measure skill-based learning based on a combination of time-based on-the-job training and a demonstration of mastery of skills. These occupations require a breakdown of minimum and maximum required hours of learning for each skill. Unlike time-based occupations, hybrid-based occupations are more flexible in the required number of training hours for completion of a program.
+Competency-Based Occupations measure skill-based learning tied to successful demonstration and evaluation of an apprentice’s skills and knowledge. The Work Process Schedule for these occupations does not need to include hours. 
+[CALLOUT BOX: The Urban Institute provides a library of customizable  for a wide range of occupations. If available in your state, competency-based occupations, when compared to the other types, offer additional flexibility to support apprentices with different needs, including length of time to complete a program. They can also accommodate a wide range of learning styles because they emphasize ability over memorized knowledge and skills.}
+Developing Task-based Descriptions
+To complete the Work Process Schedule, organizations write task and skill descriptions that focus on the task itself—not a physical method to perform the task. These descriptions will be the descriptions an organization uses to recruit apprentices. 
+To recruit diverse candidates, including those with disabilities, descriptions of required tasks should only include essential skills, rather than those that are not required to succeed in a specific role. The descriptions outlined in the WPS will also appear in apprenticeship job descriptions and, if not designed to be inclusive, they could dissuade potential candidates from applying. For example, requiring a driving license when it isn’t essential to an occupation could remove qualified candidates without a license from the pool of potential apprentices, including people with disabilities, people who are low-income, and people who live in urban environments.  
+Use Inclusive Language
+To be a fully inclusive program and recruit diverse candidates, descriptions must also be developed using inclusive language. Below is a chart that provides examples of common phrases used in descriptions and alternative language that should be updated to be more inclusive.
+ 
+Focus on Measurable Technical Skills
+In applications, employers often prioritize candidates with soft skills such as self-direction, teamwork, and work ethic. However, such skills can be difficult to measure in practice and are best taught to apprentices during on-the-job training. As a general rule, soft skills should not be listed as competencies required in the WPS application. 
+Unconscious bias and cultural and gender differences surrounding soft skills can unfairly penalize people from underserved and underrepresented groups and make it more difficult for them to complete a program. For example, one common unconscious bias is to hold men and women to different standards when they display an assertive communication style. 
+Creating an Inclusive Related Technical Instruction Outline
+As part of the RAP application process, organizations must also create a Related Technical Instruction outline, which includes a list courses apprentices will take, the learning objectives for apprentices, and the estimated number of learning hours each apprentice will need to complete to finish a program. The outline is intended to be a succinct, high-level view of the program. It does not need to include details such as daily tasks. 
+Tailor to Different Learning Styles
+To develop an inclusive RAP, the curricula an organization develops for a program, which must be included in the outline, should be designed to be inclusive and accessible from the start using the principles of universal design.  is the process for creating learning environments that meet diverse needs and are usable by a wide range of people, regardless of disability status.
+Additional Tips for Completing the Work Process Form
+Outline Inclusive Selection Procedures 
+As part of the application for registering an apprenticeship, organizations must outline their outreach strategy for identifying and selecting apprentices. To be an inclusive RAP, it is important to develop outreach strategies that support the recruitment of diverse candidates, including people with disabilities. Most working-age people with disabilities are , but their participation in the labor force is less than half of the rate for people without disabilities. By developing inclusive selection procedures, organizations can gain access to ., expanding their talent pool and helping to advance the careers of people who are underrepresented in the workplace.
+Review PIA’s , which can be integrated into an organization’s outreach strategy.
+Define Minimum Qualifications
+Within the application, organizations must set minimum qualifications for apprentices, which can include physical requirements. Organizations should ensure they don't include requirements that are not necessary for an apprentice to be successful. As mentioned above, it’s always important to consider the qualifications needed to complete the task, not a physical method to perform the task. 
+Organizations should also examine the education requirements they set for entry into their RAP so they don’t exclude qualified candidates. An undergraduate degree, for instance, may not be a good indication of a candidate's skills and success in a program. Requiring candidates to take an aptitude test can offer a better measure of competency-based skills and will ensure that candidates who have not received degrees are not automatically excluded from the recruitment process.
+Consider Expanding EEO Pledge
+As part of the application process, organizations are also required to take an Equal Employment Opportunity (EEO) pledge of nondiscrimination against federally protected classes, including race, color, religion, national origin, sex (including pregnancy and gender identity), sexual orientation, genetic information, disability, and age (40+). Organizations also have the option to add additional groups and bases (e.g. Veteran status, immigration status, criminal record status) for the purposes of recruitment and creating a more diverse and inclusive workplace. Read more about the EEO pledge requirement in PIA’s “.”
+Ensure Accessible Systems, Products, & Materials
+Organizations can train apprentices through in-classroom learning, virtual instruction, or occupational or industry courses. If outsourcing the instructional components of an apprenticeship program, organizations should ensure they work with partners that provide accessible platforms, products, and materials to apprentices and use accessibility best practices during training. .
+Additional Planning Resources
+PIA provides several targeted guides to assist with all stages of the apprenticeship process that will help organizations create more inclusive RAPs. In addition to the resources below, be sure to explore PIA’s . 
+
+DOL has set a utilization goal for sponsors of RAPs: . This toolkit guides sponsors in understanding the apprenticeship Equal Employment Opportunity (EEO) regulation and provides strategies for proactively complying with EEO requirements.   
+
+This extensive guide provides apprenticeship organizations with detailed recommendations, resources, and accessibility considerations to effectively source, engage, and support apprentices with disabilities. Topics include , , , and  (OJT).
+
+This guide helps employers from all sizes and industries foster best practices for inclusion and accessibility into on-the-job training (OJT) for their apprentices.
+
+Find tips for calculating the return on investment of inclusive apprenticeship, including information about how to fund your program.
+
+Based on a case study during the COVID-19 pandemic, this guide provides a roadmap to help new and existing apprenticeship programs structure telework and hybrid learning environments to foster a diverse cohort of apprentices.
+
+In this podcast, PIA and leading HR blog Workology.com explore how inclusive apprenticeship programs are increasing employment opportunities for people with disabilities.
+
+Component | Typical Costs | Potential Funding Sources
+Program Design & Administration | Wages and benefits for sponsor/lead organization staff
+Start-ip and one-time costs
+Fundraising | Employer, sponsor, or lead organization’s general operating funds
+Discretionary grants from federal and state agencies
+Philanthropic grants and community donations
+Outreach | Wages and benefits for outreach partner staff
+Promotional materials for potential participants
+Informational materials and training for staff in partner organizations | Partner organizations’ general operating funds
+Discretionary grants from federal and state agencies
+Philanthropic grants and community donations
+Employers
+Related Technical Training (RTI) | Wages and benefits for participants and mentors
+One-time costs for new employees
+General equipment and supplies |  (WIOA) Title 1  (ITA)
+Federal Pell Grants
+ funds
+ through community colleges
+ (IDEA) funds through local education agencies
+State-funded college grant and scholarship programs
+State education appropriations to secondary and 
+postsecondary institutions
+Employers
+Structured On-the-Job Training (OJT) | Wages and benefits for participants and mentors
+One-time costs for new employees
+General equipment and supplies | WIOA Title I Workforce Development Activities and Title IV Vocational Rehabilitation funds
+SNAP Employment and Training funds
+Discretionary grants from federal and state agencies
+Revenues from social enterprise
+Employers
+Supportive Services | Wages and benefits for provider staff
+Individualized equipment
+Pre-employment transition services
+Transportation assistance costs
+Job search assistance
+Childcare assistance | WIOA Title I, Title III Employment Services, and Title IV funds
+IDEA funds through local education agencies
+
+Partner organizations’ general operating funds
+Families
+Employers
+Commonly Used | More Inclusive Language | Example Language to Describe Tasks
+Climb​ | Ascend |  Proficiency to ascend a ladder to work atop roofs
+Hand, Carry, Lift, Reach, or Throw​ | Install, Move, Operate, Manage, Puts, Places, Transfer, Transport​ | Install solar panels ​
+Read, See, or Sight​ | Assess, Comprehend, Discover, Distinguish, Detect, Evaluate, Find, Identify, Interpret, Observe, Recognize, Understand​ | Assess equipment to determine if it meets safety protocols 
+Speak, Talk, or Hear​ | Communicate, Converse, Discuss, Exchange information, Express, Signal​ | Discuss budget with the CFO on a monthly basis​
+Drive | Travel | Travel to worksite 3 times per week
+Bend, Crouch, or Kneel ​ | Lower oneself, Drop, Move to ​ | Move to floor to install new cables​
+Type​ | Input, Enter, Record | Input data into a spreadsheet ​

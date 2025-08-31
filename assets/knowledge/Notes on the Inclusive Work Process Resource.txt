@@ -1,0 +1,69 @@
+Notes on the Inclusive Work Process Resource
+Meeting notes: 5/23/25
+What is currently missing
+Accessibility Technology Guidelines: While the document mentions accessibility, it may benefit from a dedicated section on assistive technology recommendations and digital accessibility requirements for apprenticeship programs. This could include specifics about screen reader compatibility, captioning for video content, and keyboard-navigable interfaces.
+Trauma-Informed Mentorship Approach: You may consider adding guidance on trauma-informed mentorship practices. Many individuals with disabilities have experienced barriers and rejection in previous educational or employment settings. Mentors trained in trauma-informed approaches can better support apprentices through challenges.
+Success Metrics Beyond Compliance: The document references the 7% utilization goal, but may benefit from suggesting specific KPIs that organizations could track to measure inclusion success beyond compliance (e.g., retention rates, promotion rates, satisfaction surveys specific to accessibility).
+Psychological Safety Framework: Building on my earlier recommendations about disclosure fears, a framework for creating psychologically safe environments may strengthen the document. This could include specific conversation guides for supervisors and practical examples of inclusive behaviors.
+Peer Support Networks: You may consider recommending the establishment of peer support networks or communities of practice among apprentices with disabilities. These networks can provide invaluable support while reducing isolation.
+Accommodation Request Process: The document may benefit from a template or flow chart outlining a clear, supportive accommodation request process that respects privacy while ensuring needs are met.
+Funding Gap Identification: I noticed the funding section is comprehensive, but it may be helpful to acknowledge potential funding gaps and creative solutions for smaller organizations.
+Competency-Based Assessment Alternatives: While mentioned briefly, expanding on alternative assessment methods for demonstrating competency could potentially better serve diverse learning styles and abilities.
+Next Steps
+Orrian will connect me to Cindy (DAS person who provided above recs), Robert Fried and Sabrina Kansara about working together on this issue
+As a group we might decide to Build out this tool to be more comprehensive
+Consider best use/ efficient practice for how something like this could be developed and integrated into DAS registration process and work in practice
+
+A Conversation with Michael Figuccio on 7/31/2025
+Meeting context setting:
+I am looking to build a tool to support AI-powered digital tool designed to 
+systematically integrate accessibility analysis into apprenticeship program development workflows. 
+experience how intermediaries can support employers in creating inclusive work process schedules that take accessibility considerations into account.
+how accessibility can become a standard part of program development infrastructure rather than an afterthought, 
+how intermediaries can scale inclusive practices across their entire portfolios instead of addressing accessibility program-by-program, and 
+positioning intermediaries as accessibility expertise hubs within California's evolving apprenticeship ecosystem.
+
+Michael has developed a training program for direct support professionals (DSPs) in New York that provides micro-credentials for program participants and builds pathways for workers into better-paying jobs in the industry: . Michael has designed the program so that it is accessible for people with disabilities, in particular neurodivergent participants. His program illustrates some of the accessibility considerations and issues that an accessible apprenticeship program designer may need to consider.
+Meeting discussion notes with Michael
+Can you describe your program elements that support inclusivity/accessibility? 
+The first step is to have a really good intake – you need to know about folks to make it person-centered. 
+What are they comfortable doing
+Their goals,
+What do they think they can do
+What supports can we provide to ensure we’re successful
+Types of questions for the intake – semi-structured
+Tell me about yourself; schooling and aspects of schooling you like best
+Why is DSP a good fit
+Have you been supported by DSP; what worked and didn’t work
+Your strengths and limitations; what’s a dealbreaker
+Intakes are budgeted for 90 minutes
+Then, find a good provider – some are invested and some are just looking for numbers
+Partner with a handful of providers who are a good fit
+Have the providers do their own interview 1-1
+Tell them about your expectations and have open communication
+After that, Michael will then meet with both
+How did it go – is it a good fit; is it symbiotic;
+What are your concerns (and we mediate)
+Then we monitor with regular check-ins
+Job coach does this. Job coach comes right before or after class to address soft skills and trouble shoot
+Apprentices take 1 course at a time so they meet weekly with a thoughtfully selected professor
+How’s it going currently for Michael’s program?
+Placements are taking longer than he thought (and more resources)
+It’s on both sides – we want to make sure the fit is really right
+We coordinate academic coach, job coach and professor
+We’re also limited by geography cuz worksites are not on public transit and apprentices don’t drive
+We have grant funding to support transportation
+Did you do anything for your schedule A?
+Conversations with OPWDD and SUNY and Commonpoint (partner) ahead of time that we were going to do this
+We didn’t make major changes
+time of courses adjusted to having back-to-back courses rather than concurrent courses. Which doubles the program completion time
+A typical cohort has 4%-8% of participants self-report a disability, but a lot of folks also say “prefer not to state.” Still, everyone in the program has an academic coach as part of this grant. Without that, there’d be a lot more attrition I think.
+Could OPWWD or partners do things to help?
+The application process is cumbersome. Thre’s 3 levels of registration
+Apply as nonmatriculated student
+Then ETREVE application that assigns curric
+Then old school paper form
+So there’s lots of steps for them to drop off.
+A phone bank support system would help for regional students. (phone because chat doesn’t work for some students or there’s tech limitations.)
+We’ve been approached about replicating the process for prevention, and Child Development Credentials. We’ve also thought about extending this to Para’s. 
+The support coach though is just really key and available 24 hours.
