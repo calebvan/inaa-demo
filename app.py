@@ -10,13 +10,15 @@ API_KEY = os.environ.get("OPENAI_API_KEY", "").strip()
 st.title("InAA — Inclusive Apprenticeship Assistant (No-Login Demo)")
 st.caption("Upload, lint, chat, and export. No ChatGPT account required.")
 
-# Status panel (helps diagnose blanks)
-with st.expander("Status & Diagnostics"):
-    st.write("Python:", os.sys.version)
-    st.write("OpenAI API:", "Enabled ✅" if API_KEY else "Off")
-    st.write("Repo contents:", os.listdir("."))
-    st.write("Assets present:", os.path.isdir("assets"),
-             os.path.exists("assets/linter_rules_v01.json"))
+SHOW_DIAGNOSTICS = False
+
+if SHOW_DIAGNOSTICS:
+    with st.expander("Status & Diagnostics"):
+        st.write("Python:", os.sys.version)
+        st.write("OpenAI API:", "Enabled ✅" if API_KEY else "Off")
+        st.write("Repo contents:", os.listdir("."))
+        st.write("Assets present:", os.path.isdir("assets"),
+                 os.path.exists("assets/linter_rules_v01.json"))
 
 # --- Lazy loaders to avoid hard crashes on import ---
 def try_imports(for_pdf=False, for_docx=False, for_excel=False, for_openai=False, for_pandas=False):
