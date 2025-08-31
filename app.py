@@ -91,8 +91,11 @@ with st.sidebar:
             st.session_state["seed"] = seed
 
     elif starter == "Audit this WPS/RTI":
-        st.info("Upload or paste your draft below; then click **Run Accessibility Linter**.")
-        st.session_state["seed"] = "Audit the provided draft for accessibility issues, show flags, and produce a clean copy."
+    st.info("Step 1: Upload or paste your draft below.  Step 2: Click **Run Accessibility Linter**.  Step 3: Export.")
+    if st.button("Insert helper text in chat"):
+        st.session_state["seed"] = (
+            "Audit the provided draft for accessibility issues, show flags, and produce a clean copy."
+        )
 
     elif starter == "Accommodation SOP":
         with st.form("form_sop"):
@@ -214,7 +217,7 @@ if user_msg:
 st.divider()
 st.subheader("Accessibility Linter")
 flags, clean = [], ""
-if st.button("Run Accessibility Linter"):
+if st.button("Run Accessibility Linter", type="primary"):
     # Minimal rules inline to avoid JSON issues
     RULES = [
         {"id":"R-A1","pattern":r"\bclimb(ing)?\b","flags":"i","severity":"warn",
